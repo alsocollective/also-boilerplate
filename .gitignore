@@ -1,0 +1,7 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+.DS_Store
+settings.py
